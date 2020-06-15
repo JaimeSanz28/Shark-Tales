@@ -1,6 +1,6 @@
 # Shark-Tales
 
-![Shark Tale](shark_tale.jpg)
+![Shark Tale](https://en.wikipedia.org/wiki/File:Movie_poster_Shark_Tale.jpg)
 
 
 
