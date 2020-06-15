@@ -1,31 +1,49 @@
 # Shark-Tales
 
-![alt text](http://url/to/img.png)
+![Shark Tale](/Users/jaimesanz28/ironhack/Shark-Tales/shark_tale.jpg)
+
 
 
 ## Description
 
 This is a **data cleaning** and **data wrangling** project for *Ironhack*. 
-The purpose of the project is to analyse, clean, sort and display the data in a way that fulfills the purpose of proving a certain hypothesis right. 
+The purpose of the project is to analyse, clean, sort and display the data in a way that fulfills the purpose of proving wether a specific hypothesis right or wrong. 
 I have worked with a shark attack dataset extracted from Kaggle (the link can be found  further down).
+
+## Hypothesis
+
+```bash
+White sharks have killed  more men than women in the last 5 decades
+```
 
 ## Process
 
-**Step 1**:   read the dataset
+
+### Data Cleaning
+
+**Step 1**:   read the dataframe
 
 **Step 2**:   get rid of completely empty columns
 
 **Step 3**:   create a new df that is clean
 
-**Step 4**:   change NaN values for unknown in columns of interest
+**Step 4**:   change NaN values for 'unknown' in "Species"
 
-**Step 5**:   correct the year decimals with regex
+**Step 5**:   remove rows with 'unknown species' in "Species" column
 
-**Step 6**:   dissect tiger sharks attack by year and plot by year
+**Step 6**:   clear the "Date" column
 
-**Step 7**:   dissect tiger sharks attack by sex and plot by year
+**Step 7**:   dissect white shark attacks by date
 
-**Step 8**:   create a table with shark attacks by year and sex and show %
+
+### Data Wrangling
+
+**Step 1**:   display and plot white shark attacks by month 
+
+**Step 2**:   plot attacks by month and sex of victim
+
+**Step 3**:   reflect on hypothesis
+
 
 
 
@@ -38,7 +56,7 @@ Jaime Sanz
 
 ## Documentation
 
-The data comes from Kaggle (more specifically, it is data that has been collected by the Global Shark Attack File)
+The data comes from Kaggle (more specifically it is data that has been collected by the Global Shark Attack File)
 [Kaggle-Global Shark Attack Incidents](https://www.kaggle.com/teajay/global-shark-attacks/version/1?select=GSAF5.csv)
 
 
