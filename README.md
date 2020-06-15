@@ -1,6 +1,6 @@
 # Shark-Tales
 
-![Shark Tale](https://www.google.com/search?q=shark+tales&sxsrf=ALeKk01tJdfp36EmHk-GZ2NntXr_z9gOTg:1592254767815&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiB6c6e24TqAhVOzBoKHSarBmoQ_AUoAXoECCQQAw&biw=1440&bih=789#imgrc=81c52vjxqDWbSM)
+![Shark Tale](shark_tale.jpg)
 
 
 
@@ -13,7 +13,7 @@ I have worked with a shark attack dataset extracted from Kaggle (the link can be
 ## Hypothesis
 
 ```bash
-White sharks have killed more men than women over the past 5 decades
+White sharks have killed more men than women over the past 5 decades.
 ```
 
 ## Process
