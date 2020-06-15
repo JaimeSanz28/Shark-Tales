@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 
-attacks.csv
+input/attacks.csv
 
 .DS_Store
